@@ -23,3 +23,4 @@ Haga clic [aquí](https://www.google.com) para ir a Google
 
 Para poner las palabras en negrita se encierran en doble asterisco (**) **Ejemplo en negrita**
 Para poner las palabras en itálica se encierran con asterisco simple (*) *Ejemplo en Itálica*
+## Versión de pc con Atom
