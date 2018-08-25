@@ -8,7 +8,7 @@ En esta demostración haré lo sieguiente:
   - sub item 2
   - sub item 3
 * Editar el `readme.md`
-* Quedar asustado como estudiante
+* Quedar frustrado como estudiante
 
 ## Este es un subtítulo
    Esta es una modificación desde el master
