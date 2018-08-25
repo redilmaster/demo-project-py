@@ -21,4 +21,5 @@ En esta demostración haré lo sieguiente:
 
 Haga clic [aquí](https://www.google.com) para ir a Google
 
-bla bla bla bla...
+Para poner las palabras en negrita se encierran en doble asterisco (**) **Ejemplo en negrita**
+Para poner las palabras en itálica se encierran con asterisco simple (*) *Ejemplo en Itálica*
